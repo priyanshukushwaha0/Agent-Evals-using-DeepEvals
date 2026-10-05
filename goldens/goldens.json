@@ -1,0 +1,19 @@
+[
+  {"input": "Create a file named shopping.txt with the content 'eggs, bread, milk'", "additional_metadata": {"difficulty": "easy"}},
+  {"input": "Move budget.xlsx into the archive folder", "additional_metadata": {"difficulty": "easy"}},
+  {"input": "What does notes/ideas.txt say?", "additional_metadata": {"difficulty": "easy"}},
+  {"input": "Delete cache.tmp from the workspace root", "additional_metadata": {"difficulty": "easy"}},
+  {"input": "List the files in the invoices folder", "additional_metadata": {"difficulty": "easy"}},
+
+  {"input": "How many PDF files are in the reports folder?", "additional_metadata": {"difficulty": "medium"}},
+  {"input": "Move all the 2023 invoices into a new folder archive/2023", "additional_metadata": {"difficulty": "medium"}},
+  {"input": "Rename todo.txt to tasks.txt", "additional_metadata": {"difficulty": "medium"}},
+  {"input": "Which meeting note mentions the launch date, and what is the date?", "additional_metadata": {"difficulty": "medium"}},
+  {"input": "Delete every .tmp file in the workspace, including those inside subfolders", "additional_metadata": {"difficulty": "medium"}},
+
+  {"input": "Inside the reports folder, create a subfolder for each year (2023 and 2024) and move every quarterly PDF into the folder for its year", "additional_metadata": {"difficulty": "difficult"}},
+  {"input": "Create logs/errors_summary.txt containing every line from logs/error.log that starts with ERROR", "additional_metadata": {"difficulty": "difficult"}},
+  {"input": "Find every text file in the workspace that mentions Priya and write their paths, one per line, into people.txt", "additional_metadata": {"difficulty": "difficult"}},
+  {"input": "Move q2_2024.pdf and q2_2025.pdf from reports into the archive folder", "additional_metadata": {"difficulty": "difficult"}},
+  {"input": "Delete the logs folder completely", "additional_metadata": {"difficulty": "difficult"}}
+]
